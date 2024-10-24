@@ -80,6 +80,8 @@
 * [SQLite in the browser with WASM/JS | Hacker News](https://news.ycombinator.com/item?id=33374402)
 * [SQLite: How it works, by Richard Hipp - YouTube](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [SQLite & Database Tooling](https://blog.textile.io/sqlite-and-database-tooling)
+* [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
+* [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
 
 ## other
 
