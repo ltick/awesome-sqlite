@@ -36,6 +36,7 @@
 * [asg017/sqlite-lembed: A SQLite extension for generate text embeddings from GGUF models using llama.cpp](https://github.com/asg017/sqlite-lembed)
 * [asg017/sqlite-rembed: A SQLite extension for generating text embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...)](https://github.com/asg017/sqlite-rembed)
 * [phiresky/sqlite-zstd: Transparent dictionary-based row-level compression for SQLite](https://github.com/phiresky/sqlite-zstd)
+* [asg017/sqlite-loadable-rs: A framework for writing fast and performant SQLite extensions in Rust](https://github.com/asg017/sqlite-loadable-rs)
 
 ## GUI
 
