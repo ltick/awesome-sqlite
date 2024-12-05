@@ -45,6 +45,7 @@
 * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:](https://github.com/sqlitebrowser/sqlitebrowser)
 * [beekeeper-studio/beekeeper-studio: Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.](https://github.com/beekeeper-studio/beekeeper-studio)
 * [coleifer/sqlite-web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
+* [outerbase/studio: A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.](https://github.com/outerbase/studio)
 
 ## encryption and decryption
 
