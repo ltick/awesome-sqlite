@@ -4,6 +4,7 @@
 
 * [Tencent/wcdb: WCDB is a cross-platform database framework developed by WeChat.](https://github.com/Tencent/wcdb)
 * [tursodatabase/libsql: libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
+* [tursodatabase/limbo: Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.](https://github.com/tursodatabase/limbo)
 
 ## backup and replicate
 
@@ -83,7 +84,8 @@
 * [SQLite: How it works, by Richard Hipp - YouTube](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [SQLite & Database Tooling](https://blog.textile.io/sqlite-and-database-tooling)
 * [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
-* [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
+* [How bloom filters made SQLite 10x faster - blag](https://avi.im/blag/2024/sqlite-past-present-future/?continueFlag=86f3716db9eaf357cfaed703388fd4ff)
+* [In search of a faster SQLite - blag](https://avi.im/blag/2024/faster-sqlite/)
 
 ## other
 
