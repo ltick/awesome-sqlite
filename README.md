@@ -86,6 +86,7 @@
 * [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 * [How bloom filters made SQLite 10x faster - blag](https://avi.im/blag/2024/sqlite-past-present-future/?continueFlag=86f3716db9eaf357cfaed703388fd4ff)
 * [In search of a faster SQLite - blag](https://avi.im/blag/2024/faster-sqlite/)
+* [SQL Statement Logging for Making SQLite Truly Lite](https://www.vldb.org/pvldb/vol11/p513-park.pdf)
 
 ## other
 
